@@ -2,7 +2,9 @@
 
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
-<img src="">
+<img src="https://raw.githubusercontent.com/jkss13/flashlight-react-project/main/flashlight-on.png">
+
+<img src="https://raw.githubusercontent.com/jkss13/flashlight-react-project/main/flashlight-off.png">
 
 <h3>Conteúdo</h3>
 
